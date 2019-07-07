@@ -6,7 +6,7 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 - `/users` - This returns the list of Users in the Users table which is created in H2
 - `/users/name/{name}` - This returns the details of the Users passed in URL
 - `/users/load` - Add new users using the Users model. eg. { "name": "Ajay", "teamName": "Development", "salary": 100 }
-
+ test
 ## Libraries used
 - Spring Boot
 - Spring Configuration
